@@ -1,0 +1,3 @@
+com\poc\MyApplication.class
+com\poc\verticle\CrudVerticle.class
+com\poc\entity\Product.class
